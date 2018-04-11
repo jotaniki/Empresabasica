@@ -3,7 +3,7 @@ body {
 	margin-right: 20px;
 }
 
-.logo{ 
+img{ 
 	width: 90px; 
 	height: 60px; 
 }
@@ -32,6 +32,6 @@ font-family: 'comic Sans', sans-serif;
 color:#FF6633;
 text-align: center;	
 }
-.logo{
+img{
 	padding: 10px; margin: 10px; border: 2px solid black; float: right; width: 250px; 
 }
