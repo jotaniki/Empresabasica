@@ -9,7 +9,9 @@ a {
 a:hover{
   background: green;
 }
-body > header{ margin-top: 60px; }
+body > header{ 
+	margin-top: 60px; 
+}
 section article p{
 padding: 2em 1em;
 margin-bottom: 2em;
