@@ -1,12 +1,6 @@
 body {
 	margin-left: 20px;
 	margin-right: 20px;
-}
-
-img{ 
-	width: 90px; 
-	height: 60px; 
-	 
 }	
 nav > div > a {
 	border: 1px solid yellow;
