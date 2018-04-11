@@ -21,6 +21,8 @@ border-radius: 1em;
 h1 {
 font-family: 'comic Sans', sans-serif;
 color:#FF6633;	
-
 }
-
+img{
+display:block;
+margin:auto;
+}
