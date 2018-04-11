@@ -11,6 +11,7 @@ a:hover{
 }
 body > header{ 
 	margin-top: 60px; 
+	padding:20px;
 }
 section article p{
 padding: 2em 1em;
