@@ -1,9 +1,5 @@
-body {
-	margin-left: 20px;
-	margin-right: 20px;
-}	
 nav > div > a {
-	border: 1px solid yellow;
+  border: 1px solid yellow;
   padding: 3px 5px;
 }
 a {
